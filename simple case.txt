@@ -1,1 +1,5 @@
 Hello this is a simple test for git
+
+a = 4
+
+b == 5
